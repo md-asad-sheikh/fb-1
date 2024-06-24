@@ -1,0 +1,17 @@
+{
+    "name": "mdasa/fb-1",
+    "autoload": {
+        "psr-4": {
+            "Mdasa\\Fb1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asad",
+            "email": "mdasadask@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.1"
+    }
+}
